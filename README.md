@@ -24,7 +24,7 @@ Repeat this until the script runs without errors.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/JustAGuy/llm-rag-study-helper.git
+   git clone https://github.com/JustACoder/llm-rag-study-helper.git
    cd llm-rag-study-helper
    ```
 
