@@ -1,3 +1,9 @@
+---
+title: LLM_RAG_GRADIO
+app_file: main.py
+sdk: gradio
+sdk_version: 5.4.0
+---
 # LLM RAG Study Helper
 
 This is a lightweight, rapid prototype of a Retrieval-Augmented Generation (RAG) tool that leverages a language model to help streamline studying for exams. Built in just one evening, this project uses a basic LLM with retrieval capabilities to answer questions based on external sources, focusing specifically on exam-related topics.
